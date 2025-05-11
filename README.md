@@ -47,7 +47,7 @@ This project explores a **Self-Supervised Learning (SSL)** framework leveraging 
   The methodology, core implementation, and results are novel and tailored for this specific framework.
 
 ## Reference
-This work was presented on The 2025 IGT x ImNO Joint Symposium [Find the abstract here] (https://www.igtximno.ca/wp-content/uploads/ImNO-2025-Proceedings.pdf) [Explore the poster here](https://www.researchgate.net/publication/391459808_Self-Supervised_Learning_for_Retinal_Disease_Classification_Reducing_Annotation_Dependency_with_Transformation-Based_Pretext_Learning_with_Limited_Labels)
+This work was presented on The 2025 IGT x ImNO Joint Symposium [Find the abstract here](https://www.igtximno.ca/wp-content/uploads/ImNO-2025-Proceedings.pdf) | [Explore the poster here](https://www.researchgate.net/publication/391459808_Self-Supervised_Learning_for_Retinal_Disease_Classification_Reducing_Annotation_Dependency_with_Transformation-Based_Pretext_Learning_with_Limited_Labels)
 
 If you use this code or model in your research, please cite the abstract to acknowledge the original work.
 
