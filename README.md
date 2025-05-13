@@ -53,4 +53,3 @@ If you use this code or model in your research, please cite the abstract to ackn
 
 ## Acknowledgments
 This project was completed as part of the **CIS*6020: Artificial Intelligence** course at the **University of Guelph** under the guidance of Professor **Neil Bruce**. Thanks to the **AI Enabled Medical Imaging Analysis Lab** for their support and resources throughout this work.
-
